@@ -55,101 +55,101 @@
 
     <string name="settings_musicOption">M\u00FAsica</string>
     <string name="settings_soundOption">Sonidos</string>
-    <string name="settings_fontOption">Smooth Font</string>
-    <string name="settings_advContOption">Advanced Contractions</string>
-    <string name="settings_rectoVerso">Recto Verso Mode</string>
-    <string name="settings_vibrationOption">Vibration</string>
-    <string name="settings_soundOptionsTitle">Sound Settings</string>
-    <string name="settings_translationOptionsTitle">Translation Settings</string>
-    <string name="settings_credits">View Credits</string>
-    <string name="settings_database">Change Braille Code</string>
+    <string name="settings_fontOption">Fuente Suave</string>
+    <string name="settings_advContOption">Contracciones Avanzadas</string>
+    <string name="settings_rectoVerso">Modo Recto Contrario</string>
+    <string name="settings_vibrationOption">Vibración</string>
+    <string name="settings_soundOptionsTitle">Opciones de Sonido</string>
+    <string name="settings_translationOptionsTitle">Opciones de Traducción</string>
+    <string name="settings_credits">Ver Créditos</string>
+    <string name="settings_database">Cambiar Código Braille</string>
 
     <string name="database_ueb">UEB</string>
-    <string name="database_swedish">Swedish</string>
+    <string name="database_swedish">Sueco</string>
 
-    <string name="database_ueb_desc">Unified English Braille - Modern standard for all English speaking countries</string>
-    <string name="database_swedish_desc">Standard in Sweden</string>
+    <string name="database_ueb_desc">Braille Inglés Unificado (Unified English Braille) - Estándar moderno para todos los países de habla inglesa</string>
+    <string name="database_swedish_desc">Estándar en Suecia</string>
 
-    <string name="credits1" formatted="false">Made with love by Luke Needham :)\n</string>
+    <string name="credits1" formatted="false">Hecho con amor por Luke Needham :)\n</string>
 	<string name="credits2" formatted="false">
-        \n\nAlso why not like the Facebook page!\nhttps://www.facebook.com/brailletutor/
-        \n\nMany thanks to add the volunteers who worked incredibly hard to add other languages to the app!
-        \nSpanish - Oscar Escobar
-        \nSwedish - Peter Lembke
-        \n\nMany thanks to all of my testers:\n
+        \n\nPorque no darle Me Gusta a mi página de Facebook!\nhttps://www.facebook.com/brailletutor/
+        \n\nMuchas gracias a todos los voluntarios que han trabajado increiblemente duro para agregar otros idiomas a la app!
+        \nEspañol - Fran Blanco, Oscar Escobar
+        \nSueco - Peter Lembke
+        \n\nMuchas gracias a todos mis probadores:\n
         Alice Blinkhorn\nDan McCarthy\nRachel Meyer\nMatthew Needham\nMatt Page\nSean Smith\n\n
-        All Braille rules and data from\nhttp://www.iceb.org/Rules%20of%20Unified%20English%20Braille%202013.pdf\n\n
-        "Faster Does It" and "George Street Shuffle" by Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 3.0\nhttp://creativecommons.org/licenses/by/3.0/</string>
+        Todas las reglas y datos de Braille desde\nhttp://www.iceb.org/Rules%20of%20Unified%20English%20Braille%202013.pdf\n\n
+        "Faster Does It" y "George Street Shuffle" por Kevin MacLeod (incompetech.com) Licenciado bajo Creative Commons: Atribución 3.0\nhttp://creativecommons.org/licenses/by/3.0/</string>
 
-    <string name="settings_challengeOptionsTitle">Challenge Settings</string>
-    <string name="settings_ColourOptionsTitle">Colour Settings</string>
-    <string name="settings_DictionaryOptionsTitle">Dictionary Settings</string>
-    <string name="locked_until">"Locked until level"</string>
-    <string name="locked_until_singular">" is locked until level"</string>
-    <string name="nothing_selected">You haven\'t selected anything to practise!</string>
-    <string name="bluetooth_not_available">Unfortunately your device does not support Bluetooth</string>
-    <string name="bluetooth_transfercheck">Do you wish to transfer your data to #? This will replace all data on # with the data on your current device, and delete all the data on your current device.</string>
-    <string name="bluetooth_receivecheck">Do you wish to search for connections? If a connection is found, all data on this device will be replaced with the received data.</string>
-    <string name="cancel">CANCEL</string>
-    <string name="transfer">TRANSFER</string>
-    <string name="receive">RECEIVE</string>
-    <string name="ok">OK</string>
+    <string name="settings_challengeOptionsTitle">Ajustes de Reto</string>
+    <string name="settings_ColourOptionsTitle">Ajustes de Color</string>
+    <string name="settings_DictionaryOptionsTitle">Ajustes de Diccionario</string>
+    <string name="locked_until">"Bloqueado hasta el nivel"</string>
+    <string name="locked_until_singular">" está bloqueado hasta el nivel"</string>
+    <string name="nothing_selected">¡No has seleccionado algo para practicar!</string>
+    <string name="bluetooth_not_available">Lamentablemente tu dispositivo no soporta Bluetooth</string>
+    <string name="bluetooth_transfercheck">¿Te gustaría transferir tus datos a #? Esto reemplazará todos los datos en # con los datos de tu actual dispositivo, y eliminará todos los datos tu actual dispositivo.</string>
+    <string name="bluetooth_receivecheck">¿Deseas buscar conexiones? Si se encuentra una conexión, todos los datos en este dispositivo se reemplazarán con los datos recibidos.</string>
+    <string name="cancel">CANCELAR</string>
+    <string name="transfer">TRANSFERIR</string>
+    <string name="receive">RECIBIR</string>
+    <string name="ok">ACEPTAR</string>
 
-    <string name="nopptionsavailable">No options available!</string>
-    <string name="whatyouwanttopractise">What do you want to practise?</string>
+    <string name="nopptionsavailable">¡No hay opciones disponibles!</string>
+    <string name="whatyouwanttopractise">¿Qué deseas practicar?</string>
 
-	<string name="newtheme">New Theme!</string>
-    <string name="setTheme">Set Theme</string>
-    <string name="currentTheme">Current Theme</string>
-    <string name="locked">Locked</string>
-    <string name="buynow">Buy now</string>
-    <string name="levelup">Level up</string>
-    <string name="tounlock">to unlock</string>
-    <string name="tapformoreinfo">Tap for more info</string>
+	<string name="newtheme">¡Tema nuevo!</string>
+    <string name="setTheme">Establecer tema</string>
+    <string name="currentTheme">Tema actual</string>
+    <string name="locked">Bloqueado</string>
+    <string name="buynow">Comprar ahora</string>
+    <string name="levelup">Subiste de nivel</string>
+    <string name="tounlock">para desbloquear</string>
+    <string name="tapformoreinfo">Toca para más información</string>
 
-    <string name="levelupDropInfo">"A new random colour will next unlock at Level "</string>
-    <string name="nextLevelDrop">"Next chance at level "</string>
+    <string name="levelupDropInfo">"Un nuevo color aleatorio se debloqueara en el Nivel "</string>
+    <string name="nextLevelDrop">"Siguiente oportunidad en el nivel "</string>
 
-    <string name="to_earn">To earn:</string>
-    <string name="achievement">Achievement</string>
+    <string name="to_earn">Para conseguir:</string>
+    <string name="achievement">Logro</string>
 
-    <string name="ach_loyal">Loyal</string>
-    <string name="ach_loyal_desc">You\'ve seen the app change over the months, and you\'ve decided to stick with it. Thanks!</string>
-    <string name="ach_loyal_unlock">be a long time user of the app</string>
+    <string name="ach_loyal">Leal</string>
+    <string name="ach_loyal_desc">Has visto evolucionar la aplicación a lo largo de los meses, y has decidido quedarte con ella. Gracias!</string>
+    <string name="ach_loyal_unlock">ser un usuario de la aplicación por mucho tiempo</string>
 
-    <string name="ach_challengescore_18">Hare</string>
-    <string name="ach_challengescore_18_desc">Congratulations! You completed a challenge in under 18 seconds!</string>
-    <string name="ach_challengescore_18_unlock">complete a challenge in under 18 seconds</string>
+    <string name="ach_challengescore_18">Liebre</string>
+    <string name="ach_challengescore_18_desc">¡Felicidades! Has completado el reto en menos de 18 segundos!</string>
+    <string name="ach_challengescore_18_unlock">completar un reto en menos de 18 segundos</string>
 
-    <string name="ach_challengescore_11">Swordfish</string>
-    <string name="ach_challengescore_11_desc">You\'ve managed to complete a challenge in less than 11 seconds! That\'s under 1 second per letter!</string>
-    <string name="ach_challengescore_11_unlock">complete a challenge in under 11 seconds</string>
+    <string name="ach_challengescore_11">Pez Espada</string>
+    <string name="ach_challengescore_11_desc">¡Has conseguido completar un reto en menos de 11 segundos! ¡Eso es 1 segundo por letra!</string>
+    <string name="ach_challengescore_11_unlock">completar un reto en menos de 11 segundos</string>
 
-    <string name="ach_challengescore_8">Cheetah</string>
-    <string name="ach_challengescore_8_desc">You\'re getting quicker! Beating a challenge in 8 seconds is no mean feat!</string>
-    <string name="ach_challengescore_8_unlock">complete a challenge in under 8 seconds</string>
+    <string name="ach_challengescore_8">Guepardo</string>
+    <string name="ach_challengescore_8_desc">Te estás volviendo veloz! Superar un reto en menos de 8 segundos Superar un reto en menos de 8 segundos no es proeza sencilla!</string>
+    <string name="ach_challengescore_8_unlock">completar un reto en menos de 8 segundos</string>
 
-    <string name="ach_challengescore_5">Falcon</string>
-    <string name="ach_challengescore_5_desc">Your braille typing skills are incredible! A whole challenge translated in under 5 seconds!</string>
-    <string name="ach_challengescore_5_unlock">complete a challenge in under 5 seconds</string>
+    <string name="ach_challengescore_5">Halcón</string>
+    <string name="ach_challengescore_5_desc">Tus habilidades de digitar Braille son increíbles! Un reto completo traducido en menos de 5 segundos!</string>
+    <string name="ach_challengescore_5_unlock">completar un reto en menos de 5 segundos</string>
 
-    <string name="ach_challengescore_3">Falcon</string>
-    <string name="ach_challengescore_3_desc">Some people may doubt it\'s possible to complete a challenge in under 3 seconds. Clearly they\'ve never met you!</string>
-    <string name="ach_challengescore_3_unlock">complete a challenge in under 3 seconds</string>
+    <string name="ach_challengescore_3">Halcón</string>
+    <string name="ach_challengescore_3_desc">Algunas personas pueden dudar que es posible completar un reto en menos de 3 segundos. ¡Claramente nunca te han conocido!</string>
+    <string name="ach_challengescore_3_unlock">completar un reto en menos de 3 segundos</string>
 
-    <string name="theme_name_plain">Plain</string>
-    <string name="theme_desc_plain">The most basic, most boring theme</string>
-    <string name="theme_name_plain_white">White</string>
-    <string name="theme_name_plain_grey">Grey</string>
-    <string name="theme_name_plain_red">Red</string>
-    <string name="theme_name_plain_orange">Orange</string>
-    <string name="theme_name_plain_yellow">Yellow</string>
-    <string name="theme_name_plain_green">Green</string>
-    <string name="theme_name_plain_teal">Teal</string>
-    <string name="theme_name_plain_lightblue">Light Blue</string>
-    <string name="theme_name_plain_blue">Blue</string>
-    <string name="theme_name_plain_pink">Pink</string>
-    <string name="theme_name_plain_purple">Purple</string>
+    <string name="theme_name_plain">Plano</string>
+    <string name="theme_desc_plain">El más básico, el más aburrido de los temas.</string>
+    <string name="theme_name_plain_white">Blanco</string>
+    <string name="theme_name_plain_grey">Gris</string>
+    <string name="theme_name_plain_red">Rojo</string>
+    <string name="theme_name_plain_orange">Naranja</string>
+    <string name="theme_name_plain_yellow">Amarillo</string>
+    <string name="theme_name_plain_green">Verde</string>
+    <string name="theme_name_plain_teal">Verde azulado</string>
+    <string name="theme_name_plain_lightblue">Azul claro</string>
+    <string name="theme_name_plain_blue">Azul</string>
+    <string name="theme_name_plain_pink">Rosado</string>
+    <string name="theme_name_plain_purple">Púrpura</string>
 
     <string name="theme_name_dark">Dark</string>
     <string name="theme_desc_dark">It\'s very dark</string>
